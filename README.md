@@ -1,4 +1,4 @@
-# <div align="center">KodeKamp Internship</div>
+# <div align="center">KodeCamp Internship</div>
 
 # <div align="center">Task 2</div>
 
