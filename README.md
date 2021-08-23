@@ -36,8 +36,8 @@ This is an birthday app which takes input from users and displays a birthday car
 ### Testing
 I've provided the built apk for testing it just download and install it in your smartphone.
 
- * [Task 2 apk](https://github.com/bingJunior/Zuri_Internship/tree/master/apk)
+ * [Task 2 apk](https://github.com/bingJunior/BirthdayApp/tree/master/apk)
 
 ### Video
 
- * [Video](https://github.com/bingJunior/Zuri_Internship/tree/master/Video)
+ * [Video](https://github.com/bingJunior/BirthdayApp/tree/master/Video)
